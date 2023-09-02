@@ -1,6 +1,6 @@
 # Image-precessing-system
 
-This project implements image processing techniques to convert a color image to a grayscale image and apply various transformations.
+This project implements an image processing system to convert a color image to a grayscale image and apply various transformations.
 
 ## Features
 
