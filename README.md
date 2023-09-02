@@ -4,6 +4,7 @@ This project implements an image processing system to convert a color image to a
 
 ## Features
 
+- User-friendly UI
 - Convert the color image to a grayscale image
 - Use a 6-segment linear transformation on the grayscale image
 - Display each layer of the grey scale and draw the corresponding histogram
